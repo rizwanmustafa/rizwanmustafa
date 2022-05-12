@@ -1,4 +1,4 @@
-Hi! I am **Rizwan Mustafa**, a self-taught Full Stack Web Developer. 
+Hi! I am **Rizwan Mustafa**, a self-taught programmer interested in Full Stack Web Development. 
 I am currently a highschool student.
 My interests include linux, programming and opensource.
 
