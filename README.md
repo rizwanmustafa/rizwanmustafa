@@ -1,14 +1,18 @@
+## Introduction
+
 Hi! I am **Rizwan Mustafa**, a self-taught programmer interested in Full Stack Web Development. 
 I am currently a highschool student.
 My interests include linux, programming and opensource.
 
-**Programming Languages :heart: :** Python | Javascript | Typescript | C#
+## Skills
 
-**Frontend Technologies :heart_eyes: :** HTML | CSS | SASS | ReactJS  
+**Programming Languages:** Python | Javascript | Typescript | C#
 
-**Backend Technologies &nbsp;:star_struck: :** Node | Express | Flask | MySQL | Mongodb  
+**Frontend Technologies:** HTML | CSS | SASS | ReactJS  
 
-**Social** :smile:  
+**Backend Technologies:** Node | Express | Flask | MySQL | Mongodb  
+
+## Social  
 
 \- [Portfolio Website](https://rizwanmustafa.com/)  
 \- [LinkedIn](https://www.linkedin.com/in/rizwan-mustafa-khan/)  
